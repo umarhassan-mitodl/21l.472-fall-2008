@@ -1,0 +1,55 @@
+{
+  "term": "Fall",
+  "year": "2008",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "International Literature"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Fiction"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ]
+  ],
+  "legacy_uid": "453ccb08-857e-8fcd-0bbd-1bc046833d5c",
+  "instructors": {
+    "content": [
+      "574de813-0133-dfd1-1f1f-74ababe0ad61"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "0b568a42-f390-50f7-96a3-2f8af865f32d",
+    "website": "21l-472-major-european-novels-fall-2008"
+  },
+  "course_title": "Major European Novels",
+  "hide_download": true,
+  "course_description": "This subject traces the history of the European novel by studying texts that have been influential in connection with two interrelated ideas. (1) When serious fiction deals with matters of great consequence, it should not deal with the actions of persons of consequence\u2014kings, princes, high elected officials and the like\u2014but rather with the lives of apparently ordinary people and the everyday details of their social ambitions and desires. To use a phrase of Balzac's, serious fiction deals with \"what happens everywhere\". (2) This idea sometimes goes with another: that the most significant representations of the human condition are those dealing with persons who try to compel society to accept them as its destined agent, despite their absence of high birth or inheritance.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.472",
+  "course_image_thumbnail": {
+    "content": "69d051bb-9b62-5d48-a077-fb00a8f262e4",
+    "website": "21l-472-major-european-novels-fall-2008"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "5b0620f4-7e98-4f2d-97bc-26f70f0bed2c",
+  "site_short_id": "21l.472-fall-2008",
+  "site_url_path": "courses/21l-472-major-european-novels-fall-2008",
+  "title": "Course Metadata"
+}
